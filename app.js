@@ -1,5 +1,5 @@
-const express = require('express');
-const app = express();
+const server = require('express');
+const app = server();
 const path = require('path');
 const port = 3030;
 
